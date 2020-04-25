@@ -14,7 +14,13 @@ import json
 import os
 
 
+'''
+Much of this is NOT my code, I copied a lot from the tutorial I'm following: https://www.pyimagesearch.com/2015/05/11/creating-a-face-detection-api-with-python-and-opencv-in-just-5-minutes/
 
+
+I DID however have to update some of the commands
+
+'''
 
 
 
