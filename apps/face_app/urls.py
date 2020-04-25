@@ -5,5 +5,6 @@ from . import views
 urlpatterns = [ 
     path('', views.index), 
     path('face/', views.faceCheck), 
+    path('face/detect/', views.detect), 
 
 ] 
